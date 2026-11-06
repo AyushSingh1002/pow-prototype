@@ -2,7 +2,7 @@
   "name": "printonweb-storefront-backend",
   "version": "1.0.0",
   "description": "PrintOnWeb-Inspired Storefront Backend Prototype - Server-side pricing engine, auditable quote records, and safe API contracts",
-  "main": "dist/src/index.js",
+  "main": "app.js",
   "scripts": {
     "build": "tsc",
     "start": "node dist/src/index.js",
